@@ -3,14 +3,17 @@
 This project demonstrates database design and querying skills using **MySQL**.  
 
 ## Overview
-- **Schema Design**: Table creation scripts with primary/foreign keys, constraints, and relationships.  
-- **SQL Queries**: Sample queries for exploring and analyzing data.  
+- **Database Schema**: Based on a template sourced from [drawSQL](https://drawsql.app), customized for this project.  
+- **Schema Design**: Created tables with primary/foreign keys, constraints, and relationships.  
+- **SQL Queries**: Wrote queries to practice filtering, aggregation, joins, and data manipulation.  
 
 ## Features
-- Visual database diagrams for a clear schema representation.  
-- Queries showcasing filtering, aggregation, joins, and data manipulation.  
+- Database schema inspired by a drawSQL template, adapted to fit project requirements.  
+- Fully normalized tables for scalability and structured data storage.  
+- Practical SQL queries showcasing various relational database concepts.  
 
 ## Tech Stack
 - **Database**: MySQL  
-
+- **Reference**: drawSQL schema templates
+  
 ---
