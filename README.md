@@ -1,4 +1,4 @@
-# MySQL Project: Data Modeling, Schema Design, and Queries
+# MySQL Project: Creating Database Design and Querying
 
 This project demonstrates database design and querying skills using **MySQL**.  
 
