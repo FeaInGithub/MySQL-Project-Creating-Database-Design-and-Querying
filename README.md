@@ -1,19 +1,19 @@
-# MySQL Project: Creating Database Design and Querying
+# MySQL Project: Database Design & Querying  
 
-This project demonstrates database design and querying skills using **MySQL**.  
+This project highlights my database design and querying skills using **MySQL**.  
 
-## Overview
-- **Database Schema**: Based on a template sourced from [drawSQL](https://drawsql.app), customized for this project.  
-- **Schema Design**: Created tables with primary/foreign keys, constraints, and relationships.  
-- **SQL Queries**: Wrote queries to practice filtering, aggregation, joins, and data manipulation.  
+## 📌 Overview  
+- **Database Schema**: Designed based on a template from [drawSQL](https://drawsql.app), then customized for this project.  
+- **Schema Design**: Built tables with primary/foreign keys, constraints, and relationships.  
+- **CRUD Operations**: Practiced inserting, reading, updating, and deleting data.  
+- **SQL Queries**: Wrote queries for filtering, aggregation, joins, and data manipulation.  
+- **Advanced Features**: Implemented triggers, events, and stored procedures.  
 
-## Features
-- Database schema inspired by a drawSQL template, adapted to fit project requirements.  
+## ✨ Features  
+- Schema adapted from a drawSQL template and tailored to project needs.  
 - Fully normalized tables for scalability and structured data storage.  
-- Practical SQL queries showcasing various relational database concepts.  
+- Practical SQL queries covering different relational database concepts.  
 
-## Tech Stack
+## 🛠 Tech Stack  
 - **Database**: MySQL  
-- **Reference**: drawSQL schema templates
-  
----
+- **Schema Reference**: drawSQL templates  
