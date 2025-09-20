@@ -7,7 +7,7 @@ This project highlights my database design and querying skills using **MySQL**.
 - **Schema Design**: Built tables with primary/foreign keys, constraints, and relationships.  
 - **CRUD Operations**: Practiced inserting, reading, updating, and deleting data.  
 - **SQL Queries**: Wrote queries for filtering, aggregation, joins, and data manipulation.  
-- **Advanced Features**: Implemented triggers, events, and stored procedures.  
+- **Advanced Features**: Implemented triggers, events, etc. 
 
 ## ✨ Features  
 - Schema adapted from a drawSQL template and tailored to project needs.  
