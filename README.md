@@ -1,4 +1,4 @@
-# MySQL Project: Database Design & Querying  
+# MySQL Project: Database Design & Querying (Ongoing)
 
 This project highlights my database design and querying skills using **MySQL**.  
 
